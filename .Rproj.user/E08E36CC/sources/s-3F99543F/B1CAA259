@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1590422219278.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3265228809",
+    "id" : "B1CAA259",
+    "lastKnownWriteTime" : 1590422614,
+    "last_content_update" : 1590422614946,
+    "path" : "~/rmytools/R/helloworld.R",
+    "project_path" : "R/helloworld.R",
+    "properties" : {
+        "cursorPosition" : "13,6",
+        "scrollLine" : "1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}
